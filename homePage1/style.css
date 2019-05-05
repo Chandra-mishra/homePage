@@ -1,0 +1,252 @@
+
+.Umazed img{
+    position:relative;
+    left: 25px;
+}
+.button1 {width: 100px;
+           position: relative;
+           right: 30px;
+           background-color:  #945aa1;
+}
+.button2 {width: 100px;
+    background-color: #2cb7b2;
+
+}
+.row{
+    float: right;
+    right: 40px;
+}
+#box{
+   width:100%;
+   height: 300px;
+    background-color: #2cb7b2;
+}
+.second{
+    float:left;
+    width:100%;
+    background-color: beige; 
+}
+.secondImage img{
+    float: left;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    padding-left: 30px;
+}
+ #paragraph { 
+    font-family: MONTSERRAT-LIGHT;
+    color:#716558;
+    font-size: 30px; 
+    float:right;
+    margin: 0 auto;
+    width: 30%;
+    padding-right: 70px; 
+    height: auto;   
+}
+#paragraph span{
+    font-family:MONTSERRAT-THIN;
+    font-size:45px;
+    color: #2cb7b2
+}
+
+#box2{
+    
+    float:left;
+    width:100%;
+    background-color: beige;
+}
+#paragraph2{
+    float:left;
+    font-family: MONTSERRAT-LIGHT;
+    color:#716558;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 40%;
+    padding-left: 70px; 
+    height: auto;
+}
+#paragraph2 span{
+    font-family:MONTSERRAT-THIN;
+    font-size: 35px;
+    color:#2cb7b2;
+}
+.thirdImage img{
+    float: right;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    padding-right: 30px;
+}
+.circle{
+    clear:both;
+    width:100%;
+    background-color: beige;
+    height:300px;
+}
+#circle1{
+  float: left;
+  width:50%;
+  height: 200px;
+  position: relative;    
+  left: 200px;
+  bottom: -30px;    
+    
+}
+#circle2{
+    position: relative;
+    left: 200px;
+    float:right;
+    width: 50%;
+    height: 200px;
+    bottom: -30px;
+}
+#box3{
+    position: relative;
+    font-family: MONTSERRAT-HAIRLINE;
+    bottom:150px;
+    left:75px;
+    color: white;
+}
+#box4{
+    position: relative;
+    font-family: MONTSERRAT-HAIRLINE;
+    bottom:150px;
+    left:75px;
+    color: white;
+}
+.text{
+    position: relative;
+    left:420px;
+    font-family:MONTSERRAT-HAIRLINE;
+    font-size: 30px;
+    color:aqua;
+    bottom: 180px;
+}
+.box5{
+    float:left;
+    width:100%;
+    background-color: beige;
+    
+}
+#forthImage img{
+    float: left;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    padding: 50px 30px;
+     
+}
+#paragraph3{
+    float:right;
+    font-family: MONTSERRAT-LIGHT;
+    color:#716558;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 40%;
+    padding-right: 70px; 
+    height: auto;
+}
+#paragraph3 span{
+    font-family:MONTSERRAT-THIN;
+    font-size: 35px;
+    color:#2cb7b2;
+}
+.box6{
+    float:left;
+    width: 100%;
+    background-color: beige;
+
+}
+#paragraph4{
+    float:left;
+    font-family: MONTSERRAT-LIGHT;
+    color:#716558;
+    font-size: 30px;
+    margin: 0 auto;
+    width: 30%;
+    padding: 70px 70px;  
+    height: auto;
+    
+}
+#paragraph4 span{
+    font-family:MONTSERRAT-THIN;
+    font-size: 35px;
+    color:#2cb7b2;
+}
+ #fifthImage img{
+    float: right;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+   padding: 70px 30px 70px 0px;
+}
+.container{
+    clear: both;
+    position: relative;
+    left:450px;
+    width: 100%;
+    background-color: beige;
+}
+input[type = "text"],input[type = "password"]{
+    border-radius: 1px;
+    outline-color: #808080;
+    font-size: 15.47px;
+    color: #4d4e4e;
+    background-color: #f2f2f2;
+    height: 33px;
+    width: 300px;
+    
+}
+#message,#message1{
+    color: #f15e4e;
+    font-family:MONTSERRAT-HAIRLINE; 
+}
+.container a{
+    position: relative;
+    left: 50px;
+    
+}
+#button3{
+     border-radius: 1px;
+    font-size: 15.47px;
+    color: #4d4e4e;
+    background-color: #945aa1;
+    height: 33px;
+    width: 300px; 
+    color: white;
+}
+.lastBlock{
+    background-color: gray;
+    width: 100%;
+    height: 300px;
+}
+.lastBlock button{
+     border-radius: 1px;
+    font-size: 15.47px;
+    color: #4d4e4e;
+    background-color: #2cb7b2;
+    height: 40px;
+    width: 200px; 
+    color: white;
+    position:relative;
+    left:50px;
+    top: 145px;
+    outline-color: gray;
+}
+.lastBlock #lastImage{
+    position:relative;
+    bottom: -30px;
+    left: 500px;
+}
+.lastBlock p{
+    position:relative;
+    color: white;
+    bottom:20px;
+    left: 80px;
+}
+.lastBlock #icon{
+    float: right;
+    position: relative;
+    bottom: 75px;
+    right: 40px;
+}
